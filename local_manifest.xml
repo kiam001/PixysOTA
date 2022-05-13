@@ -7,4 +7,6 @@
   <remove-project name="packages_apps_Updater" />
   <project path="packages/apps/Updater" name="kiam001/android_packages_apps_Updater" remote="github" revision="lineage-19.1" />
   <project path="packages/resources/devicesettings" name="kiam001/android_packages_resources_devicesettings" remote="github" revision="lineage-19.1" />
+  <remove-project name=name="device_pixys_sepolicy" />
+  <project path="device/pixys/sepolicy" name="kiam001/device_pixys_sepolicy" remote="github" revision="twelve" />
 </manifest>
