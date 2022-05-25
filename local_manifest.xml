@@ -9,5 +9,5 @@
   <project path="packages/resources/devicesettings" name="kiam001/packages_resources_devicesettings" remote="github" revision="twelve" />
   <remove-project name="device_pixys_sepolicy" />
   <project path="device/pixys/sepolicy" name="kiam001/device_pixys_sepolicy" remote="github" revision="twelve" />
-  <project path="packages/apps/Seedvault" name="kiam001/seedvault-prebuilt" remote="github" revision="master" />
+  <project path="packages/apps/Seedvault" name="kiam001/seedvault" remote="github" revision="android12" />
 </manifest>
