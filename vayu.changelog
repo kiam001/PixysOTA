@@ -2,6 +2,10 @@
 Set OTA Download URL to Github
 FIX recovery.img for use fastbootd now it say its unlocked
 Add SeedVault https://github.com/seedvault-app to make Offline Backups
+INFO TO USE SEEDFAULT
+use adb and use commands:
+# adb shell bmgr enable true
+# adb shell bmgr transport com.stevesoltys.seedvault.transport.ConfigurableBackupTransport
 
 23.05.2022
 Rom Source Updates
