@@ -1,3 +1,25 @@
+08.06.2022
+PixysOS 5.1.3
+
+* merged June security patch
+* Allow to reduce 3 second screen record timer 
+* Improved quick settings paddings and animations
+* Added QR Code scanner tile 
+* Integrated Google Lens into Screenshot UI 
+* Added applock
+* Use color accent tint for charging animation
+* added panel for Bluetooth and Wifi instead of full Settings 
+* added GameSpace 
+* added some system apps to privacy indicator blacklist
+* Introduced Custom Statusbar Signal & Wi-Fi icons
+* added adguard and cloudflare as dns providers
+* re designed package details with package name
+* added  new preview for dark theme 
+* re designed seekbars to a thinner version of volume slider 
+* added repainter integration service
+* fixed pixys updater not downloading build on enforced sellinux
+
+
 25.05.2022
 Set OTA Download URL to Github
 FIX recovery.img for use fastbootd now it say its unlocked
