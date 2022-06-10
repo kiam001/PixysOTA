@@ -1,3 +1,7 @@
+10.06.2022
+Some fixes in frameworks/base
+vayu: init: Setup permission for /dev/ir_spi node
+
 09.06.2022
 24732: Settings: fix lottie animations for udfps side/tip
 
