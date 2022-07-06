@@ -4,7 +4,6 @@
   <project path="vendor/xiaomi/vayu" name="kiam001/vendor_xiaomi_vayu" remote="github" revision="twelve" />
   <project path="kernel/xiaomi/vayu" name="kiam001/android_kernel_xiaomi_vayu" remote="github" revision="r2" />
   <project path="hardware/xiaomi" name="kiam001/hardware_xiaomi" remote="github" revision="twelve" />
-  <project path="hardware/lineage/interfaces" name="kiam001/android_hardware_lineage_interfaces" remote="github" revision="lineage-19.1" />
   <remove-project name="packages_apps_Updater" />
   <project path="packages/apps/Updater" name="kiam001/android_packages_apps_Updater" remote="github" revision="lineage-19.1" />
   <project path="packages/resources/devicesettings" name="kiam001/packages_resources_devicesettings" remote="github" revision="twelve" />
